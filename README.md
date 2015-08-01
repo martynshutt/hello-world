@@ -1,4 +1,6 @@
 # hello-world
 =============
 
-My second commit. Just testing.
+Just testing.
+
+Now I've added and deleted to my new branch of README.md
